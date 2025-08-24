@@ -6,6 +6,10 @@ export const metadata: Metadata = {
   title: 'PDFusion',
   description: 'Create and edit PDFs from images on your mobile device.',
   manifest: '/manifest.json',
+  icons: {
+    icon: '/icon.svg',
+    apple: '/icon.svg',
+  },
 };
 
 export default function RootLayout({
