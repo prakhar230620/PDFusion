@@ -4,7 +4,7 @@
   "description": "Create and edit PDFs from images on your mobile device.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#E8EAF6",
+  "background_color": "#ffffff",
   "theme_color": "#3F51B5",
   "icons": [
     {
